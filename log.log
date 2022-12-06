@@ -1,0 +1,51 @@
+commit bec3ff3aa823bcc25d231e30746cfa89f8214e02 (HEAD -> main, origin/main, origin/HEAD)
+Author: prasad6291-spt <gupta2930@saskpolytech.ca>
+Date:   Tue Dec 6 00:46:41 2022 -0600
+
+    Graphs for Stocks
+
+commit 24881a65ac96782d3a3b9d2db55e40fff10b13b0
+Author: jerusalcephafens4145 <gupta2930@saskpolytech.ca>
+Date:   Tue Dec 6 00:43:54 2022 -0600
+
+    Graphs for COVID-19
+
+commit ba6aaaff15a45a1d18e5941257464fe6c98a1866
+Author: jerusalcephafens4145 <gupta2930@saskpolytech.ca>
+Date:   Tue Dec 6 00:41:12 2022 -0600
+
+    Merging Stock and COVID-19 DataFrame
+
+commit a54b0127343439c18a959218a950e4dc49ab6c8e
+Author: jerusalcephafens4145 <gupta2930@saskpolytech.ca>
+Date:   Tue Dec 6 00:40:18 2022 -0600
+
+    Created Merged DataFrame of Canada and US
+
+commit c1a4068c1e6abe79ea16e84275474a327a0aa9d1
+Author: prasad6291-spt <gupta2930@saskpolytech.ca>
+Date:   Tue Dec 6 00:37:13 2022 -0600
+
+    Merged all stock data
+
+commit 5f488351e43bc6c2ce3a960a63e7da4b940fa8cc
+Author: prasad6291-spt <gupta2930@saskpolytech.ca>
+Date:   Tue Dec 6 00:35:42 2022 -0600
+
+    Created dataFrame for all stocks
+
+commit 8941c571bee476220739cb6d5379404ee919c6ee
+Author: prasad6291-spt <gupta2930@saskpolytech.ca>
+Date:   Tue Dec 6 00:31:49 2022 -0600
+
+    Added Stock data
+
+commit 9629dc1d6548d2a5dcb775c44c2f988b45f7547a
+Author: prasad6291-spt <gupta2930@saskpolytech.ca>
+Date:   Tue Dec 6 00:25:39 2022 -0600
+
+    Populating Covid-19 DataFrame
+
+commit d6301c3e8fe848eea0a06c894822dba24b7e2896
+Author: prasad6291-spt <118313334+prasad6291-spt@users.noreply.github.com>
+Date:   Tue Dec 6 08:45:11 2022 +0530
